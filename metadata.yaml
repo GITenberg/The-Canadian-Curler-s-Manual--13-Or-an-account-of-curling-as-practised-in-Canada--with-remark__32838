@@ -1,0 +1,27 @@
+_repo: The-Canadian-Curler-s-Manual--13-Or-an-account-of-curling-as-practised-in-Canada--with-remark__32838
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bicket, James
+    gutenberg_agent_id: '36136'
+    url: http://www.gutenberg.org/2009/agents/36136
+description: ''
+gutenberg_issued: '2010-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32838'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Curling -- Canada -- History -- 19th century'
+- !lcc 'GV'
+- !lcsh 'Curling -- History'
+- !lcsh 'Curling -- Canada -- Handbooks, manuals, etc'
+title: "The Canadian Curler's Manual\r\nOr, an account of curling, as practised in\
+  \ Canada: with remarks on the history of the game"
+url: http://www.gutenberg.org/ebooks/32838
